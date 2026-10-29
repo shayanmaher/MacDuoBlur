@@ -1,6 +1,23 @@
+<div align="center">
+
 # MacDuoBlur 📖✨
 
-Bring the iconic **iPhone Duo / Surface Duo** foldable screen hinge blur and unblur effect directly to your MacBook!
+**Bring the iconic iPhone Duo / Surface Duo foldable screen hinge blur and unblur effect to your MacBook!**
+
+<br />
+
+<img src="./assets/banner.jpg" alt="MacDuoBlur Banner" width="100%" style="border-radius: 14px; box-shadow: 0 12px 36px rgba(0,0,0,0.35);" />
+
+<br /><br />
+
+[![macOS 13+](https://img.shields.io/badge/macOS-13%2B-black?style=for-the-badge&logo=apple)](https://github.com/shayanmaher/MacDuoBlur/releases)
+[![Apple Silicon & Intel](https://img.shields.io/badge/Arch-Apple%20Silicon%20%2F%20Intel-blue?style=for-the-badge)](https://github.com/shayanmaher/MacDuoBlur/releases)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
+[![Download DMG](https://img.shields.io/badge/Download-DMG-brightgreen?style=for-the-badge&logo=apple)](https://github.com/shayanmaher/MacDuoBlur/releases/latest)
+
+</div>
+
+<br />
 
 When you start closing your MacBook lid, your desktop wallpaper dynamically and progressively blurs and dims with a realistic 3D perspective fold. When you open the lid back up, it focuses back into crystal-clear sharpness.
 
